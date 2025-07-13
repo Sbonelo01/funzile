@@ -194,7 +194,7 @@ const Index = () => {
             <div>
               <h2 className="text-4xl font-bold text-gray-900 mb-6">About Funzile</h2>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                Operating under <strong>IZIBONELO TECH PTY LTD</strong>, Funzile is a dynamic web development 
+                Operating under IZIBONELO TECH PTY LTD, Funzile is a dynamic web development 
                 company dedicated to creating exceptional digital experiences. We combine technical expertise 
                 with creative vision to deliver solutions that exceed expectations.
               </p>
@@ -332,11 +332,11 @@ const Index = () => {
                 </div>
                 <div className="flex items-center">
                   <Phone className="h-6 w-6 text-blue-600 mr-4" />
-                  <span className="text-gray-700">+27 (0) 123 456 789</span>
+                  <span className="text-gray-700">+27 (0)61 069 2364 </span>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="h-6 w-6 text-blue-600 mr-4" />
-                  <span className="text-gray-700">South Africa</span>
+                  <span className="text-gray-700">Durban, South Africa</span>
                 </div>
               </div>
               <div className="mt-8">
