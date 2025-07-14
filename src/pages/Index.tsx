@@ -17,7 +17,7 @@ import {
   MapPin,
   ChevronDown
 } from "lucide-react";
-import { FunzileLogo } from "@/components/FunzileLogo";
+// import { FunzileLogo } from "@/components/FunzileLogo";
 import { ServiceCard } from "@/components/ServiceCard";
 import { TestimonialCard } from "@/components/TestimonialCard";
 
@@ -65,20 +65,20 @@ const Index = () => {
 
   const testimonials = [
     {
-      name: "Sarah Johnson",
-      company: "TechStart Solutions",
+      name: "Bonisile Dlamini",
+      company: "Furbabies Podcast",
       content: "Funzile transformed our digital presence completely. Their attention to detail and technical expertise is unmatched.",
       rating: 5
     },
     {
-      name: "Michael Chen",
-      company: "E-Commerce Plus",
+      name: "Sbonelo",
+      company: "Tikiti",
       content: "The team delivered our e-commerce platform ahead of schedule. Sales increased by 150% within the first month.",
       rating: 5
     },
     {
-      name: "Lisa Rodriguez",
-      company: "Creative Agency Co",
+      name: "Guy Luyanda",
+      company: "The Millenials Corner",
       content: "Professional, reliable, and innovative. Funzile is our go-to partner for all web development projects.",
       rating: 5
     }
@@ -91,10 +91,10 @@ const Index = () => {
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
-              <FunzileLogo />
+              <img src="../../public/funzile-logo.png" height="50" width="50" alt="Funzile logo" />
               <div>
-                <h1 className="text-xl font-bold text-gray-900">Funzile</h1>
-                <p className="text-xs text-gray-600">by IZIBONELO TECH PTY LTD</p>
+                {/* <h1 className="text-xl font-bold text-gray-900">Funzile</h1> */}
+                {/* <p className="text-xs text-gray-600 bt-0">by Izibonelo (pty) Ltd.</p> */}
               </div>
             </div>
             <div className="hidden md:flex items-center space-x-8">
@@ -380,7 +380,7 @@ const Index = () => {
         <div className="container mx-auto px-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-3 mb-4 md:mb-0">
-              <FunzileLogo variant="white" />
+              <img src="../../public/funzile-logo.png" height="40" width="40" alt="Funzile logo" />
               <div>
                 <h3 className="text-lg font-bold">Funzile</h3>
                 <p className="text-sm text-gray-400">by IZIBONELO TECH PTY LTD</p>
