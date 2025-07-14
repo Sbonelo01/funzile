@@ -91,7 +91,7 @@ const Index = () => {
         <div className="container mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-3">
-              <img src="../../public/funzile-logo.png" height="50" width="50" alt="Funzile logo" />
+              <img src="https://github.com/Sbonelo01/funzile/blob/main/funzile-logo.png?raw=true" height="50" width="50" alt="Funzile logo" />
               <div>
                 {/* <h1 className="text-xl font-bold text-gray-900">Funzile</h1> */}
                 {/* <p className="text-xs text-gray-600 bt-0">by Izibonelo (pty) Ltd.</p> */}
@@ -380,7 +380,7 @@ const Index = () => {
         <div className="container mx-auto px-6">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <div className="flex items-center space-x-3 mb-4 md:mb-0">
-              <img src="../../public/funzile-logo.png" height="40" width="40" alt="Funzile logo" />
+              <img src="https://github.com/Sbonelo01/funzile/blob/main/funzile-logo.png?raw=true" height="40" width="40" alt="Funzile logo" />
               <div>
                 <h3 className="text-lg font-bold">Funzile</h3>
                 <p className="text-sm text-gray-400">by IZIBONELO TECH PTY LTD</p>
