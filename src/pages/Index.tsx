@@ -65,19 +65,19 @@ const Index = () => {
 
   const testimonials = [
     {
-      name: "Bonisile Dlamini",
-      company: "Furbabies Podcast",
+      name: "Mandisa Goba",
+      company: "Goba Global Solutions",
       content: "Funzile transformed our digital presence completely. Their attention to detail and technical expertise is unmatched.",
       rating: 5
     },
     {
-      name: "Sbonelo",
-      company: "Tikiti",
+      name: "Ayanda Dlamini",
+      company: "Empire Photography",
       content: "The team delivered our e-commerce platform ahead of schedule. Sales increased by 150% within the first month.",
       rating: 5
     },
     {
-      name: "Guy Luyanda",
+      name: "Guy Luyanda Maluleke",
       company: "The Millenials Corner",
       content: "Professional, reliable, and innovative. Funzile is our go-to partner for all web development projects.",
       rating: 5
